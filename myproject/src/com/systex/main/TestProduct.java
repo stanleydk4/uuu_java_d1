@@ -1,6 +1,6 @@
 package com.systex.main;
 
-import com.systex.model.Product;
+import com.systex.model.*;
 import com.systex.service.ProductService;
 
 public class TestProduct {
