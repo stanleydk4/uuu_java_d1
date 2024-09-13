@@ -6,6 +6,7 @@ public class Loop {
 		// TODO Auto-generated method stub
 		int loopNum = Integer.parseInt(args[0]);
 		int num = Integer.parseInt(args[1]);
+		System.out.println("Loop"+args[0]+":");
 		switch (loopNum) {
 			case 1:
 				Loop1(num);
